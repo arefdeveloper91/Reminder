@@ -21,7 +21,7 @@ Conhecimento básico de Swift e SwiftUI (opcional, mas recomendado).
 Instalação
 
 Clone o repositório:
-git clone https://github.com/seu-usuario/Reminder
+git clone https://github.com/arefdeveloper91/Reminder
 
 
 Abra o projeto no Xcode:
